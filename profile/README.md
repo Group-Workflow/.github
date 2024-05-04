@@ -4,3 +4,5 @@ Kuber Group, previously known as Group Workflow, is a free, instant messaging ap
 
 ---
 ###### [DISCARDED VERSION](https://groupworkflow.netlify.app/)
+---
+Owned By [SoleWeb](https://soleweb.github.io/SoleSoftware/)
